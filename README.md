@@ -140,3 +140,14 @@ automaticamente na primeira execucao.
   ou integracao com Active Directory, adaptar `Deploy.Config.pas`.
 - O upload de pacote tem limite de 500 MB (`FUpload.MaxAllowedSize` em
   `Main.pas`), ajustavel conforme necessidade.
+
+## Telas
+| Login |
+<img width="429" height="402" alt="image" src="https://github.com/user-attachments/assets/f96c0324-2851-445b-916d-13fe971e07ba" />
+
+| Aplicações |
+<img width="1309" height="277" alt="image" src="https://github.com/user-attachments/assets/3de353f7-aa46-45ab-a9a4-d1803b26246e" />
+
+|Logs |
+<img width="961" height="275" alt="image" src="https://github.com/user-attachments/assets/1382ade8-b7e4-4094-b416-b9ff3dd23a51" />
+
