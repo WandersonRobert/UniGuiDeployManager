@@ -82,7 +82,7 @@ para um usuario com as permissoes descritas acima.
 - Porta padrao: `8077` (ex.: `http://localhost:8077` ou
   `http://servidor:8077`, ajustavel em `ServerModule.dfm`/`Bindings`).
 - Usuario padrao: `admin`
-- Senha padrao: `8n@5*2q`
+- Senha padrao: `admin`
 
 **Troque a senha padrao antes de expor a aplicacao na rede.** As
 credenciais ficam em `config/settings.json` (hash SHA-256 com salt, nao em
